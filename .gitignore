@@ -4,3 +4,7 @@ node_modules/
 # IDE and OS files
 .DS_Store
 Thumbs.db
+.vscode/
+
+# defualt lint config file 
+eslint.config.mjs
